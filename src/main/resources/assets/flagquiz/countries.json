@@ -1,0 +1,1574 @@
+[
+  {
+    "code": "AF",
+    "name": "Afghanistan",
+    "accepted": [
+      "Afghanistan",
+      "Islamic Republic of Afghanistan"
+    ]
+  },
+  {
+    "code": "AL",
+    "name": "Albania",
+    "accepted": [
+      "Albania",
+      "Republic of Albania"
+    ]
+  },
+  {
+    "code": "DZ",
+    "name": "Algeria",
+    "accepted": [
+      "Algeria",
+      "People's Democratic Republic of Algeria"
+    ]
+  },
+  {
+    "code": "AD",
+    "name": "Andorra",
+    "accepted": [
+      "Andorra",
+      "Principality of Andorra"
+    ]
+  },
+  {
+    "code": "AO",
+    "name": "Angola",
+    "accepted": [
+      "Angola",
+      "Republic of Angola"
+    ]
+  },
+  {
+    "code": "AG",
+    "name": "Antigua and Barbuda",
+    "accepted": [
+      "Antigua and Barbuda"
+    ]
+  },
+  {
+    "code": "AR",
+    "name": "Argentina",
+    "accepted": [
+      "Argentina",
+      "Argentine Republic"
+    ]
+  },
+  {
+    "code": "AM",
+    "name": "Armenia",
+    "accepted": [
+      "Armenia",
+      "Republic of Armenia"
+    ]
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "accepted": [
+      "Australia",
+      "Commonwealth of Australia"
+    ]
+  },
+  {
+    "code": "AT",
+    "name": "Austria",
+    "accepted": [
+      "Austria",
+      "Republic of Austria"
+    ]
+  },
+  {
+    "code": "AZ",
+    "name": "Azerbaijan",
+    "accepted": [
+      "Azerbaijan",
+      "Republic of Azerbaijan"
+    ]
+  },
+  {
+    "code": "BS",
+    "name": "Bahamas",
+    "accepted": [
+      "Bahamas",
+      "Commonwealth of the Bahamas"
+    ]
+  },
+  {
+    "code": "BH",
+    "name": "Bahrain",
+    "accepted": [
+      "Bahrain",
+      "Kingdom of Bahrain"
+    ]
+  },
+  {
+    "code": "BD",
+    "name": "Bangladesh",
+    "accepted": [
+      "Bangladesh",
+      "People's Republic of Bangladesh"
+    ]
+  },
+  {
+    "code": "BB",
+    "name": "Barbados",
+    "accepted": [
+      "Barbados"
+    ]
+  },
+  {
+    "code": "BY",
+    "name": "Belarus",
+    "accepted": [
+      "Belarus",
+      "Republic of Belarus"
+    ]
+  },
+  {
+    "code": "BE",
+    "name": "Belgium",
+    "accepted": [
+      "Belgium",
+      "Kingdom of Belgium"
+    ]
+  },
+  {
+    "code": "BZ",
+    "name": "Belize",
+    "accepted": [
+      "Belize"
+    ]
+  },
+  {
+    "code": "BJ",
+    "name": "Benin",
+    "accepted": [
+      "Benin",
+      "Republic of Benin"
+    ]
+  },
+  {
+    "code": "BT",
+    "name": "Bhutan",
+    "accepted": [
+      "Bhutan",
+      "Kingdom of Bhutan"
+    ]
+  },
+  {
+    "code": "BO",
+    "name": "Bolivia",
+    "accepted": [
+      "Bolivia",
+      "Plurinational State of Bolivia"
+    ]
+  },
+  {
+    "code": "BA",
+    "name": "Bosnia and Herzegovina",
+    "accepted": [
+      "Bosnia and Herzegovina"
+    ]
+  },
+  {
+    "code": "BW",
+    "name": "Botswana",
+    "accepted": [
+      "Botswana",
+      "Republic of Botswana"
+    ]
+  },
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "accepted": [
+      "Brazil",
+      "Federative Republic of Brazil"
+    ]
+  },
+  {
+    "code": "BN",
+    "name": "Brunei",
+    "accepted": [
+      "Brunei",
+      "Nation of Brunei, Abode of Peace",
+      "Brunei Darussalam"
+    ]
+  },
+  {
+    "code": "BG",
+    "name": "Bulgaria",
+    "accepted": [
+      "Bulgaria",
+      "Republic of Bulgaria"
+    ]
+  },
+  {
+    "code": "BF",
+    "name": "Burkina Faso",
+    "accepted": [
+      "Burkina Faso"
+    ]
+  },
+  {
+    "code": "BI",
+    "name": "Burundi",
+    "accepted": [
+      "Burundi",
+      "Republic of Burundi"
+    ]
+  },
+  {
+    "code": "KH",
+    "name": "Cambodia",
+    "accepted": [
+      "Cambodia",
+      "Kingdom of Cambodia"
+    ]
+  },
+  {
+    "code": "CM",
+    "name": "Cameroon",
+    "accepted": [
+      "Cameroon",
+      "Republic of Cameroon"
+    ]
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "accepted": [
+      "Canada"
+    ]
+  },
+  {
+    "code": "CV",
+    "name": "Cape Verde",
+    "accepted": [
+      "Cape Verde",
+      "Republic of Cabo Verde",
+      "Cabo Verde"
+    ]
+  },
+  {
+    "code": "CF",
+    "name": "Central African Republic",
+    "accepted": [
+      "Central African Republic"
+    ]
+  },
+  {
+    "code": "TD",
+    "name": "Chad",
+    "accepted": [
+      "Chad",
+      "Republic of Chad"
+    ]
+  },
+  {
+    "code": "CL",
+    "name": "Chile",
+    "accepted": [
+      "Chile",
+      "Republic of Chile"
+    ]
+  },
+  {
+    "code": "CN",
+    "name": "China",
+    "accepted": [
+      "China",
+      "People's Republic of China"
+    ]
+  },
+  {
+    "code": "CO",
+    "name": "Colombia",
+    "accepted": [
+      "Colombia",
+      "Republic of Colombia"
+    ]
+  },
+  {
+    "code": "KM",
+    "name": "Comoros",
+    "accepted": [
+      "Comoros",
+      "Union of the Comoros"
+    ]
+  },
+  {
+    "code": "CG",
+    "name": "Congo",
+    "accepted": [
+      "Congo",
+      "Republic of the Congo",
+      "Congo-Brazzaville"
+    ]
+  },
+  {
+    "code": "CR",
+    "name": "Costa Rica",
+    "accepted": [
+      "Costa Rica",
+      "Republic of Costa Rica"
+    ]
+  },
+  {
+    "code": "HR",
+    "name": "Croatia",
+    "accepted": [
+      "Croatia",
+      "Republic of Croatia"
+    ]
+  },
+  {
+    "code": "CU",
+    "name": "Cuba",
+    "accepted": [
+      "Cuba",
+      "Republic of Cuba"
+    ]
+  },
+  {
+    "code": "CY",
+    "name": "Cyprus",
+    "accepted": [
+      "Cyprus",
+      "Republic of Cyprus"
+    ]
+  },
+  {
+    "code": "CZ",
+    "name": "Czechia",
+    "accepted": [
+      "Czechia",
+      "Czech Republic"
+    ]
+  },
+  {
+    "code": "CD",
+    "name": "DR Congo",
+    "accepted": [
+      "DR Congo",
+      "Democratic Republic of the Congo",
+      "Congo-Kinshasa"
+    ]
+  },
+  {
+    "code": "DK",
+    "name": "Denmark",
+    "accepted": [
+      "Denmark",
+      "Kingdom of Denmark"
+    ]
+  },
+  {
+    "code": "DJ",
+    "name": "Djibouti",
+    "accepted": [
+      "Djibouti",
+      "Republic of Djibouti"
+    ]
+  },
+  {
+    "code": "DM",
+    "name": "Dominica",
+    "accepted": [
+      "Dominica",
+      "Commonwealth of Dominica"
+    ]
+  },
+  {
+    "code": "DO",
+    "name": "Dominican Republic",
+    "accepted": [
+      "Dominican Republic"
+    ]
+  },
+  {
+    "code": "EC",
+    "name": "Ecuador",
+    "accepted": [
+      "Ecuador",
+      "Republic of Ecuador"
+    ]
+  },
+  {
+    "code": "EG",
+    "name": "Egypt",
+    "accepted": [
+      "Egypt",
+      "Arab Republic of Egypt"
+    ]
+  },
+  {
+    "code": "SV",
+    "name": "El Salvador",
+    "accepted": [
+      "El Salvador",
+      "Republic of El Salvador"
+    ]
+  },
+  {
+    "code": "GQ",
+    "name": "Equatorial Guinea",
+    "accepted": [
+      "Equatorial Guinea",
+      "Republic of Equatorial Guinea"
+    ]
+  },
+  {
+    "code": "ER",
+    "name": "Eritrea",
+    "accepted": [
+      "Eritrea",
+      "State of Eritrea"
+    ]
+  },
+  {
+    "code": "EE",
+    "name": "Estonia",
+    "accepted": [
+      "Estonia",
+      "Republic of Estonia"
+    ]
+  },
+  {
+    "code": "SZ",
+    "name": "Eswatini",
+    "accepted": [
+      "Eswatini",
+      "Kingdom of Eswatini",
+      "Swaziland"
+    ]
+  },
+  {
+    "code": "ET",
+    "name": "Ethiopia",
+    "accepted": [
+      "Ethiopia",
+      "Federal Democratic Republic of Ethiopia"
+    ]
+  },
+  {
+    "code": "FJ",
+    "name": "Fiji",
+    "accepted": [
+      "Fiji",
+      "Republic of Fiji"
+    ]
+  },
+  {
+    "code": "FI",
+    "name": "Finland",
+    "accepted": [
+      "Finland",
+      "Republic of Finland"
+    ]
+  },
+  {
+    "code": "FR",
+    "name": "France",
+    "accepted": [
+      "France",
+      "French Republic"
+    ]
+  },
+  {
+    "code": "GA",
+    "name": "Gabon",
+    "accepted": [
+      "Gabon",
+      "Gabonese Republic"
+    ]
+  },
+  {
+    "code": "GM",
+    "name": "Gambia",
+    "accepted": [
+      "Gambia",
+      "Republic of the Gambia"
+    ]
+  },
+  {
+    "code": "GE",
+    "name": "Georgia",
+    "accepted": [
+      "Georgia"
+    ]
+  },
+  {
+    "code": "DE",
+    "name": "Germany",
+    "accepted": [
+      "Germany",
+      "Federal Republic of Germany"
+    ]
+  },
+  {
+    "code": "GH",
+    "name": "Ghana",
+    "accepted": [
+      "Ghana",
+      "Republic of Ghana"
+    ]
+  },
+  {
+    "code": "GR",
+    "name": "Greece",
+    "accepted": [
+      "Greece",
+      "Hellenic Republic"
+    ]
+  },
+  {
+    "code": "GD",
+    "name": "Grenada",
+    "accepted": [
+      "Grenada"
+    ]
+  },
+  {
+    "code": "GT",
+    "name": "Guatemala",
+    "accepted": [
+      "Guatemala",
+      "Republic of Guatemala"
+    ]
+  },
+  {
+    "code": "GN",
+    "name": "Guinea",
+    "accepted": [
+      "Guinea",
+      "Republic of Guinea"
+    ]
+  },
+  {
+    "code": "GW",
+    "name": "Guinea-Bissau",
+    "accepted": [
+      "Guinea-Bissau",
+      "Republic of Guinea-Bissau"
+    ]
+  },
+  {
+    "code": "GY",
+    "name": "Guyana",
+    "accepted": [
+      "Guyana",
+      "Co-operative Republic of Guyana"
+    ]
+  },
+  {
+    "code": "HT",
+    "name": "Haiti",
+    "accepted": [
+      "Haiti",
+      "Republic of Haiti"
+    ]
+  },
+  {
+    "code": "HN",
+    "name": "Honduras",
+    "accepted": [
+      "Honduras",
+      "Republic of Honduras"
+    ]
+  },
+  {
+    "code": "HU",
+    "name": "Hungary",
+    "accepted": [
+      "Hungary"
+    ]
+  },
+  {
+    "code": "IS",
+    "name": "Iceland",
+    "accepted": [
+      "Iceland"
+    ]
+  },
+  {
+    "code": "IN",
+    "name": "India",
+    "accepted": [
+      "India",
+      "Republic of India"
+    ]
+  },
+  {
+    "code": "ID",
+    "name": "Indonesia",
+    "accepted": [
+      "Indonesia",
+      "Republic of Indonesia"
+    ]
+  },
+  {
+    "code": "IR",
+    "name": "Iran",
+    "accepted": [
+      "Iran",
+      "Islamic Republic of Iran",
+      "Iran Islamic Republic"
+    ]
+  },
+  {
+    "code": "IQ",
+    "name": "Iraq",
+    "accepted": [
+      "Iraq",
+      "Republic of Iraq"
+    ]
+  },
+  {
+    "code": "IE",
+    "name": "Ireland",
+    "accepted": [
+      "Ireland",
+      "Republic of Ireland"
+    ]
+  },
+  {
+    "code": "IL",
+    "name": "Israel",
+    "accepted": [
+      "Israel",
+      "State of Israel"
+    ]
+  },
+  {
+    "code": "IT",
+    "name": "Italy",
+    "accepted": [
+      "Italy",
+      "Italian Republic"
+    ]
+  },
+  {
+    "code": "CI",
+    "name": "Ivory Coast",
+    "accepted": [
+      "Ivory Coast",
+      "Republic of Côte d'Ivoire",
+      "Cote d'Ivoire",
+      "C?te d'Ivoire"
+    ]
+  },
+  {
+    "code": "JM",
+    "name": "Jamaica",
+    "accepted": [
+      "Jamaica"
+    ]
+  },
+  {
+    "code": "JP",
+    "name": "Japan",
+    "accepted": [
+      "Japan"
+    ]
+  },
+  {
+    "code": "JO",
+    "name": "Jordan",
+    "accepted": [
+      "Jordan",
+      "Hashemite Kingdom of Jordan"
+    ]
+  },
+  {
+    "code": "KZ",
+    "name": "Kazakhstan",
+    "accepted": [
+      "Kazakhstan",
+      "Republic of Kazakhstan"
+    ]
+  },
+  {
+    "code": "KE",
+    "name": "Kenya",
+    "accepted": [
+      "Kenya",
+      "Republic of Kenya"
+    ]
+  },
+  {
+    "code": "KI",
+    "name": "Kiribati",
+    "accepted": [
+      "Kiribati",
+      "Independent and Sovereign Republic of Kiribati"
+    ]
+  },
+  {
+    "code": "XK",
+    "name": "Kosovo",
+    "accepted": [
+      "Kosovo",
+      "Republic of Kosovo"
+    ]
+  },
+  {
+    "code": "KW",
+    "name": "Kuwait",
+    "accepted": [
+      "Kuwait",
+      "State of Kuwait"
+    ]
+  },
+  {
+    "code": "KG",
+    "name": "Kyrgyzstan",
+    "accepted": [
+      "Kyrgyzstan",
+      "Kyrgyz Republic"
+    ]
+  },
+  {
+    "code": "LA",
+    "name": "Laos",
+    "accepted": [
+      "Laos",
+      "Lao People's Democratic Republic"
+    ]
+  },
+  {
+    "code": "LV",
+    "name": "Latvia",
+    "accepted": [
+      "Latvia",
+      "Republic of Latvia"
+    ]
+  },
+  {
+    "code": "LB",
+    "name": "Lebanon",
+    "accepted": [
+      "Lebanon",
+      "Lebanese Republic"
+    ]
+  },
+  {
+    "code": "LS",
+    "name": "Lesotho",
+    "accepted": [
+      "Lesotho",
+      "Kingdom of Lesotho"
+    ]
+  },
+  {
+    "code": "LR",
+    "name": "Liberia",
+    "accepted": [
+      "Liberia",
+      "Republic of Liberia"
+    ]
+  },
+  {
+    "code": "LY",
+    "name": "Libya",
+    "accepted": [
+      "Libya",
+      "State of Libya"
+    ]
+  },
+  {
+    "code": "LI",
+    "name": "Liechtenstein",
+    "accepted": [
+      "Liechtenstein",
+      "Principality of Liechtenstein"
+    ]
+  },
+  {
+    "code": "LT",
+    "name": "Lithuania",
+    "accepted": [
+      "Lithuania",
+      "Republic of Lithuania"
+    ]
+  },
+  {
+    "code": "LU",
+    "name": "Luxembourg",
+    "accepted": [
+      "Luxembourg",
+      "Grand Duchy of Luxembourg"
+    ]
+  },
+  {
+    "code": "MG",
+    "name": "Madagascar",
+    "accepted": [
+      "Madagascar",
+      "Republic of Madagascar"
+    ]
+  },
+  {
+    "code": "MW",
+    "name": "Malawi",
+    "accepted": [
+      "Malawi",
+      "Republic of Malawi"
+    ]
+  },
+  {
+    "code": "MY",
+    "name": "Malaysia",
+    "accepted": [
+      "Malaysia"
+    ]
+  },
+  {
+    "code": "MV",
+    "name": "Maldives",
+    "accepted": [
+      "Maldives",
+      "Republic of the Maldives"
+    ]
+  },
+  {
+    "code": "ML",
+    "name": "Mali",
+    "accepted": [
+      "Mali",
+      "Republic of Mali"
+    ]
+  },
+  {
+    "code": "MT",
+    "name": "Malta",
+    "accepted": [
+      "Malta",
+      "Republic of Malta"
+    ]
+  },
+  {
+    "code": "MH",
+    "name": "Marshall Islands",
+    "accepted": [
+      "Marshall Islands",
+      "Republic of the Marshall Islands"
+    ]
+  },
+  {
+    "code": "MR",
+    "name": "Mauritania",
+    "accepted": [
+      "Mauritania",
+      "Islamic Republic of Mauritania"
+    ]
+  },
+  {
+    "code": "MU",
+    "name": "Mauritius",
+    "accepted": [
+      "Mauritius",
+      "Republic of Mauritius"
+    ]
+  },
+  {
+    "code": "MX",
+    "name": "Mexico",
+    "accepted": [
+      "Mexico",
+      "United Mexican States"
+    ]
+  },
+  {
+    "code": "FM",
+    "name": "Micronesia",
+    "accepted": [
+      "Micronesia",
+      "Federated States of Micronesia"
+    ]
+  },
+  {
+    "code": "MD",
+    "name": "Moldova",
+    "accepted": [
+      "Moldova",
+      "Republic of Moldova"
+    ]
+  },
+  {
+    "code": "MC",
+    "name": "Monaco",
+    "accepted": [
+      "Monaco",
+      "Principality of Monaco"
+    ]
+  },
+  {
+    "code": "MN",
+    "name": "Mongolia",
+    "accepted": [
+      "Mongolia"
+    ]
+  },
+  {
+    "code": "ME",
+    "name": "Montenegro",
+    "accepted": [
+      "Montenegro"
+    ]
+  },
+  {
+    "code": "MA",
+    "name": "Morocco",
+    "accepted": [
+      "Morocco",
+      "Kingdom of Morocco"
+    ]
+  },
+  {
+    "code": "MZ",
+    "name": "Mozambique",
+    "accepted": [
+      "Mozambique",
+      "Republic of Mozambique"
+    ]
+  },
+  {
+    "code": "MM",
+    "name": "Myanmar",
+    "accepted": [
+      "Myanmar",
+      "Republic of the Union of Myanmar",
+      "Burma"
+    ]
+  },
+  {
+    "code": "NA",
+    "name": "Namibia",
+    "accepted": [
+      "Namibia",
+      "Republic of Namibia"
+    ]
+  },
+  {
+    "code": "NR",
+    "name": "Nauru",
+    "accepted": [
+      "Nauru",
+      "Republic of Nauru"
+    ]
+  },
+  {
+    "code": "NP",
+    "name": "Nepal",
+    "accepted": [
+      "Nepal",
+      "Federal Democratic Republic of Nepal"
+    ]
+  },
+  {
+    "code": "NL",
+    "name": "Netherlands",
+    "accepted": [
+      "Netherlands",
+      "Kingdom of the Netherlands"
+    ]
+  },
+  {
+    "code": "NZ",
+    "name": "New Zealand",
+    "accepted": [
+      "New Zealand"
+    ]
+  },
+  {
+    "code": "NI",
+    "name": "Nicaragua",
+    "accepted": [
+      "Nicaragua",
+      "Republic of Nicaragua"
+    ]
+  },
+  {
+    "code": "NE",
+    "name": "Niger",
+    "accepted": [
+      "Niger",
+      "Republic of Niger"
+    ]
+  },
+  {
+    "code": "NG",
+    "name": "Nigeria",
+    "accepted": [
+      "Nigeria",
+      "Federal Republic of Nigeria"
+    ]
+  },
+  {
+    "code": "KP",
+    "name": "North Korea",
+    "accepted": [
+      "North Korea",
+      "Democratic People's Republic of Korea",
+      "DPRK"
+    ]
+  },
+  {
+    "code": "MK",
+    "name": "North Macedonia",
+    "accepted": [
+      "North Macedonia",
+      "Republic of North Macedonia",
+      "Macedonia"
+    ]
+  },
+  {
+    "code": "NO",
+    "name": "Norway",
+    "accepted": [
+      "Norway",
+      "Kingdom of Norway"
+    ]
+  },
+  {
+    "code": "OM",
+    "name": "Oman",
+    "accepted": [
+      "Oman",
+      "Sultanate of Oman"
+    ]
+  },
+  {
+    "code": "PK",
+    "name": "Pakistan",
+    "accepted": [
+      "Pakistan",
+      "Islamic Republic of Pakistan"
+    ]
+  },
+  {
+    "code": "PW",
+    "name": "Palau",
+    "accepted": [
+      "Palau",
+      "Republic of Palau"
+    ]
+  },
+  {
+    "code": "PS",
+    "name": "Palestine",
+    "accepted": [
+      "Palestine",
+      "State of Palestine"
+    ]
+  },
+  {
+    "code": "PA",
+    "name": "Panama",
+    "accepted": [
+      "Panama",
+      "Republic of Panama"
+    ]
+  },
+  {
+    "code": "PG",
+    "name": "Papua New Guinea",
+    "accepted": [
+      "Papua New Guinea",
+      "Independent State of Papua New Guinea"
+    ]
+  },
+  {
+    "code": "PY",
+    "name": "Paraguay",
+    "accepted": [
+      "Paraguay",
+      "Republic of Paraguay"
+    ]
+  },
+  {
+    "code": "PE",
+    "name": "Peru",
+    "accepted": [
+      "Peru",
+      "Republic of Peru"
+    ]
+  },
+  {
+    "code": "PH",
+    "name": "Philippines",
+    "accepted": [
+      "Philippines",
+      "Republic of the Philippines"
+    ]
+  },
+  {
+    "code": "PL",
+    "name": "Poland",
+    "accepted": [
+      "Poland",
+      "Republic of Poland"
+    ]
+  },
+  {
+    "code": "PT",
+    "name": "Portugal",
+    "accepted": [
+      "Portugal",
+      "Portuguese Republic"
+    ]
+  },
+  {
+    "code": "QA",
+    "name": "Qatar",
+    "accepted": [
+      "Qatar",
+      "State of Qatar"
+    ]
+  },
+  {
+    "code": "RO",
+    "name": "Romania",
+    "accepted": [
+      "Romania"
+    ]
+  },
+  {
+    "code": "RU",
+    "name": "Russia",
+    "accepted": [
+      "Russia",
+      "Russian Federation"
+    ]
+  },
+  {
+    "code": "RW",
+    "name": "Rwanda",
+    "accepted": [
+      "Rwanda",
+      "Republic of Rwanda"
+    ]
+  },
+  {
+    "code": "KN",
+    "name": "Saint Kitts and Nevis",
+    "accepted": [
+      "Saint Kitts and Nevis",
+      "Federation of Saint Christopher and Nevis",
+      "St Kitts and Nevis"
+    ]
+  },
+  {
+    "code": "LC",
+    "name": "Saint Lucia",
+    "accepted": [
+      "Saint Lucia",
+      "St Lucia"
+    ]
+  },
+  {
+    "code": "VC",
+    "name": "Saint Vincent and the Grenadines",
+    "accepted": [
+      "Saint Vincent and the Grenadines",
+      "St Vincent and the Grenadines"
+    ]
+  },
+  {
+    "code": "WS",
+    "name": "Samoa",
+    "accepted": [
+      "Samoa",
+      "Independent State of Samoa"
+    ]
+  },
+  {
+    "code": "SM",
+    "name": "San Marino",
+    "accepted": [
+      "San Marino",
+      "Most Serene Republic of San Marino"
+    ]
+  },
+  {
+    "code": "SA",
+    "name": "Saudi Arabia",
+    "accepted": [
+      "Saudi Arabia",
+      "Kingdom of Saudi Arabia"
+    ]
+  },
+  {
+    "code": "SN",
+    "name": "Senegal",
+    "accepted": [
+      "Senegal",
+      "Republic of Senegal"
+    ]
+  },
+  {
+    "code": "RS",
+    "name": "Serbia",
+    "accepted": [
+      "Serbia",
+      "Republic of Serbia"
+    ]
+  },
+  {
+    "code": "SC",
+    "name": "Seychelles",
+    "accepted": [
+      "Seychelles",
+      "Republic of Seychelles"
+    ]
+  },
+  {
+    "code": "SL",
+    "name": "Sierra Leone",
+    "accepted": [
+      "Sierra Leone",
+      "Republic of Sierra Leone"
+    ]
+  },
+  {
+    "code": "SG",
+    "name": "Singapore",
+    "accepted": [
+      "Singapore",
+      "Republic of Singapore"
+    ]
+  },
+  {
+    "code": "SK",
+    "name": "Slovakia",
+    "accepted": [
+      "Slovakia",
+      "Slovak Republic"
+    ]
+  },
+  {
+    "code": "SI",
+    "name": "Slovenia",
+    "accepted": [
+      "Slovenia",
+      "Republic of Slovenia"
+    ]
+  },
+  {
+    "code": "SB",
+    "name": "Solomon Islands",
+    "accepted": [
+      "Solomon Islands"
+    ]
+  },
+  {
+    "code": "SO",
+    "name": "Somalia",
+    "accepted": [
+      "Somalia",
+      "Federal Republic of Somalia"
+    ]
+  },
+  {
+    "code": "ZA",
+    "name": "South Africa",
+    "accepted": [
+      "South Africa",
+      "Republic of South Africa"
+    ]
+  },
+  {
+    "code": "KR",
+    "name": "South Korea",
+    "accepted": [
+      "South Korea",
+      "Republic of Korea"
+    ]
+  },
+  {
+    "code": "SS",
+    "name": "South Sudan",
+    "accepted": [
+      "South Sudan",
+      "Republic of South Sudan"
+    ]
+  },
+  {
+    "code": "ES",
+    "name": "Spain",
+    "accepted": [
+      "Spain",
+      "Kingdom of Spain"
+    ]
+  },
+  {
+    "code": "LK",
+    "name": "Sri Lanka",
+    "accepted": [
+      "Sri Lanka",
+      "Democratic Socialist Republic of Sri Lanka"
+    ]
+  },
+  {
+    "code": "SD",
+    "name": "Sudan",
+    "accepted": [
+      "Sudan",
+      "Republic of the Sudan"
+    ]
+  },
+  {
+    "code": "SR",
+    "name": "Suriname",
+    "accepted": [
+      "Suriname",
+      "Republic of Suriname"
+    ]
+  },
+  {
+    "code": "SE",
+    "name": "Sweden",
+    "accepted": [
+      "Sweden",
+      "Kingdom of Sweden"
+    ]
+  },
+  {
+    "code": "CH",
+    "name": "Switzerland",
+    "accepted": [
+      "Switzerland",
+      "Swiss Confederation"
+    ]
+  },
+  {
+    "code": "SY",
+    "name": "Syria",
+    "accepted": [
+      "Syria",
+      "Syrian Arab Republic"
+    ]
+  },
+  {
+    "code": "ST",
+    "name": "São Tomé and Príncipe",
+    "accepted": [
+      "São Tomé and Príncipe",
+      "Democratic Republic of São Tomé and Príncipe",
+      "Sao Tome and Principe",
+      "S?o Tom? and Pr?ncipe"
+    ]
+  },
+  {
+    "code": "TJ",
+    "name": "Tajikistan",
+    "accepted": [
+      "Tajikistan",
+      "Republic of Tajikistan"
+    ]
+  },
+  {
+    "code": "TZ",
+    "name": "Tanzania",
+    "accepted": [
+      "Tanzania",
+      "United Republic of Tanzania"
+    ]
+  },
+  {
+    "code": "TH",
+    "name": "Thailand",
+    "accepted": [
+      "Thailand",
+      "Kingdom of Thailand"
+    ]
+  },
+  {
+    "code": "TL",
+    "name": "Timor-Leste",
+    "accepted": [
+      "Timor-Leste",
+      "Democratic Republic of Timor-Leste",
+      "East Timor"
+    ]
+  },
+  {
+    "code": "TG",
+    "name": "Togo",
+    "accepted": [
+      "Togo",
+      "Togolese Republic"
+    ]
+  },
+  {
+    "code": "TO",
+    "name": "Tonga",
+    "accepted": [
+      "Tonga",
+      "Kingdom of Tonga"
+    ]
+  },
+  {
+    "code": "TT",
+    "name": "Trinidad and Tobago",
+    "accepted": [
+      "Trinidad and Tobago",
+      "Republic of Trinidad and Tobago"
+    ]
+  },
+  {
+    "code": "TN",
+    "name": "Tunisia",
+    "accepted": [
+      "Tunisia",
+      "Tunisian Republic"
+    ]
+  },
+  {
+    "code": "TM",
+    "name": "Turkmenistan",
+    "accepted": [
+      "Turkmenistan"
+    ]
+  },
+  {
+    "code": "TV",
+    "name": "Tuvalu",
+    "accepted": [
+      "Tuvalu"
+    ]
+  },
+  {
+    "code": "TR",
+    "name": "Türkiye",
+    "accepted": [
+      "Türkiye",
+      "Republic of Türkiye",
+      "Turkey",
+      "Turkiye",
+      "T?rkiye"
+    ]
+  },
+  {
+    "code": "UG",
+    "name": "Uganda",
+    "accepted": [
+      "Uganda",
+      "Republic of Uganda"
+    ]
+  },
+  {
+    "code": "UA",
+    "name": "Ukraine",
+    "accepted": [
+      "Ukraine"
+    ]
+  },
+  {
+    "code": "AE",
+    "name": "United Arab Emirates",
+    "accepted": [
+      "United Arab Emirates",
+      "UAE"
+    ]
+  },
+  {
+    "code": "GB",
+    "name": "United Kingdom",
+    "accepted": [
+      "United Kingdom",
+      "United Kingdom of Great Britain and Northern Ireland",
+      "UK",
+      "Great Britain",
+      "Britain",
+      "U.K."
+    ]
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "accepted": [
+      "United States",
+      "United States of America",
+      "USA",
+      "America"
+    ]
+  },
+  {
+    "code": "UY",
+    "name": "Uruguay",
+    "accepted": [
+      "Uruguay",
+      "Oriental Republic of Uruguay"
+    ]
+  },
+  {
+    "code": "UZ",
+    "name": "Uzbekistan",
+    "accepted": [
+      "Uzbekistan",
+      "Republic of Uzbekistan"
+    ]
+  },
+  {
+    "code": "VU",
+    "name": "Vanuatu",
+    "accepted": [
+      "Vanuatu",
+      "Republic of Vanuatu"
+    ]
+  },
+  {
+    "code": "VA",
+    "name": "Vatican City",
+    "accepted": [
+      "Vatican City",
+      "Vatican City State",
+      "Vatican",
+      "Holy See"
+    ]
+  },
+  {
+    "code": "VE",
+    "name": "Venezuela",
+    "accepted": [
+      "Venezuela",
+      "Bolivarian Republic of Venezuela"
+    ]
+  },
+  {
+    "code": "VN",
+    "name": "Vietnam",
+    "accepted": [
+      "Vietnam",
+      "Socialist Republic of Vietnam",
+      "Viet Nam"
+    ]
+  },
+  {
+    "code": "YE",
+    "name": "Yemen",
+    "accepted": [
+      "Yemen",
+      "Republic of Yemen"
+    ]
+  },
+  {
+    "code": "ZM",
+    "name": "Zambia",
+    "accepted": [
+      "Zambia",
+      "Republic of Zambia"
+    ]
+  },
+  {
+    "code": "ZW",
+    "name": "Zimbabwe",
+    "accepted": [
+      "Zimbabwe",
+      "Republic of Zimbabwe"
+    ]
+  }
+]

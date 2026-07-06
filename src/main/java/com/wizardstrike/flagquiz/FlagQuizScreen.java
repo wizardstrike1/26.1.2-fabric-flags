@@ -55,13 +55,7 @@ public final class FlagQuizScreen extends Screen {
         }
 
         String guess = this.answerField.getValue().trim();
-        String expected = this.countryFlag.countryName();
-        if (guess.equalsIgnoreCase(expected)) {
-            this.minecraft.player.sendSystemMessage(Component.literal("Correct! " + expected));
-        } else {
-            this.minecraft.player.sendSystemMessage(Component.literal("Wrong. The correct answer was: " + expected));
-        }
-
+        FlagQuizMod.handleAnswer(this.countryFlag, guess, this.minecraft);
         this.minecraft.setScreen(null);
     }
 
